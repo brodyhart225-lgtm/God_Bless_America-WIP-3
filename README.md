@@ -15,7 +15,7 @@ the game, you are working for the Ministry of Admission via
 work lottery, denying and accepting passports all day. I
 created this game and decided to call it 'God Bless America'
 due to the use of the common phrase, and the similarity to
-'Glory to Arstotzka' from Papers, Please, and even uses 'God'
+'Glory to Arstotzka' from Papers, Please, and it even uses 'God'
 as a big brother figure, because the idea of a figure ALWAYS
 watching is scary and entertaining...
     
