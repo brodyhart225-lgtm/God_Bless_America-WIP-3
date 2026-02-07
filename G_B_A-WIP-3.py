@@ -47,7 +47,7 @@ Hello!
     
 def day_one(citations, score):
     glorious_saying = "God bless America and its glorious leader, Robert Barron"
-# ^ totally necessary LOL ^
+# ^ totally necessary ^
     rulebook = """
     Rules:
         * Entrant must have a passport
@@ -233,7 +233,7 @@ def day_one(citations, score):
         4 - Quit
          --->"""))
             if expired == False and foreigner == False:
-                    allowed = True
+                allowed = True
             else:
                 allowed = False
             match options_for_access:
